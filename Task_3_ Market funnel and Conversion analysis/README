@@ -1,1 +1,53 @@
+# 📊 Marketing Funnel & Conversion Analysis
 
+## 📌 Project Overview
+
+This project focuses on analyzing marketing campaign data to understand customer conversion behavior, identify areas where potential customers are lost, and support better business decisions.
+
+## 🎯 Objectives
+
+The main objectives of this analysis were to:
+
+* Examine patterns in customer conversion
+* Determine where customers drop off within the marketing funnel
+* Assess the effectiveness of different campaigns
+* Develop practical recommendations based on the findings
+
+## 🛠 Tools Used
+
+* Power BI
+* Data analysis techniques
+* Business intelligence
+
+## 📊 Key Analysis Performed
+
+* Conversion rate analysis
+* Marketing funnel analysis (Total → Engaged → Converted)
+* Campaign performance evaluation
+* Conversion analysis by job role
+
+## 📈 Key Insights
+
+* Although a large number of customers were contacted, only a relatively small proportion ultimately converted.
+* Customer engagement, particularly call duration, has an important influence on conversion.
+* Conversion performance differs across various job categories.
+* Making too many campaign contacts can negatively affect campaign effectiveness.
+
+## 💡 Recommendations
+
+* Prioritize customer segments that demonstrate higher conversion rates.
+* Strengthen engagement approaches during the first customer interaction.
+* Avoid unnecessary or excessive follow-up contacts.
+* Improve campaign targeting to focus resources on customers with greater conversion potential.
+
+## 📁 Project Files
+
+* Power BI Dashboard (`.pbix`)
+* Dataset (`.csv`)
+
+---
+
+## 👤 Author
+
+**Rethabile Manyanye**  
+Data Science & Analytics Intern
